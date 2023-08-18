@@ -1,0 +1,10 @@
+#settings-menu {
+  display: none;
+} 
+.bt {
+  color: rgb(0, 255, 242);
+}
+img {
+  justify-content: center;
+  align-items: center;
+}
